@@ -1,0 +1,52 @@
+{
+  "name": "hubot-gitolite",
+  "version": "0.0.1",
+  "description": "hubot script for for git hooks",
+  "author": {
+    "name": "Ken Wills",
+      "email": "ken@zaptillion.net"
+  },
+  "dependencies": {
+    "gitio2": "^3.0.0"
+  },
+  "main": "index.coffee",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/luck3y/hubot-gitolite.git"
+  },
+  "keywords": [
+    "hubot",
+    "gitolite"
+  ],
+  "license": "MIT",
+  "engines": {
+    "node": "*"
+  },
+  "bugs": {
+    "url": "https://github.com/luck3y/hubot-gitolite/issues"
+  },
+  "homepage": "https://github.com/luck3y/hubot-gitolite",
+  "_id": "hubot-stockstuff@0.0.1",
+  "scripts": {},
+  "_shasum": "f3ec699a7a58209e27751f8dc0a1d153d8e0f3ca",
+  "_from": "hubot-stockstuff@*",
+  "_npmVersion": "2.1.12",
+  "_nodeVersion": "0.10.31",
+  "_npmUser": {
+    "name": "jazzychad",
+    "email": "jazzychad@gmail.com"
+  },
+  "maintainers": [
+    {
+      "name": "jazzychad",
+      "email": "jazzychad@gmail.com"
+    }
+  ],
+  "dist": {
+    "shasum": "f3ec699a7a58209e27751f8dc0a1d153d8e0f3ca",
+    "tarball": "http://registry.npmjs.org/hubot-stockstuff/-/hubot-stockstuff-0.0.1.tgz"
+  },
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/hubot-stockstuff/-/hubot-stockstuff-0.0.1.tgz",
+  "readme": "ERROR: No README data found!"
+}
